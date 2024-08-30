@@ -7,7 +7,7 @@ Este é um projeto de jogo em **C#** utilizando o **Unity Engine**. O jogo é um
 ### Características do Jogo
 
 - **Modo de Jogo:** Sobrevivência Round Based
-- **Inimigos:** Zumbis, Mutantes, Alienígenas
+- **Inimigos:** Zumbis, Mutantes, Alienígenas ou o que vier na minha imaginação :)
 - **Sistema de Pontuação:** Pontos ganhos com base na quantidade de zumbis eliminados, rodadas sobrevividas, "Tasks" cumpridas ao longo da gameplay
 - **Armas:** Diversas armas disponíveis para o jogador, cada uma com características únicas, podendo ser Assault Rifles, Submachine Guns, Pistols, Launchers e afins
 
